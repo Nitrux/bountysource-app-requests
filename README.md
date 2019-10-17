@@ -23,15 +23,15 @@ The AppImages that we create will target **amd64** primarily; however, if there 
 
 ## How does it work?
 
-1. If there's enough demand for a given application to also work on other architectures, we will reopen the issue and place a new minimum bounty goal.
+1. If there's enough demand for a given application to also work on other architectures, we will create a new issue, referencing the previous one and place a new minimum bounty goal.
 2. The minimum bounty for this extended goal is of **$350**. As before, the bounty is a collective effort; the more people contribute to the pool, the better.
-3. After it has been adequately tested, it will be uploaded to [Pling.com](PLing.com), in addition to the file for amd64. Afterward, the first issue will be closed.
+3. After it has been adequately tested, it will be uploaded to [Pling.com](PLing.com), in addition to the file for amd64. Afterward, the initial issue will be closed.
 
 # Notes
 
 * Application requests must not be, need or depend on i686 libraries.
 * Electron applications may require extra work.
-* Application requests closing comments will be accompanied by a link to the file at A[Pling.com](PLing.com), screenshots or a video of the AppImage functioning on (at least three of) the mentioned distributions.
+* Application requests closing comments will be accompanied by a link to the file at [Pling.com](PLing.com), screenshots or a video of the AppImage functioning on (at least three of) the mentioned distributions.
 * Bounties are paid off only until the issue (the application request) is solved, not before.
 
 # Bugs
