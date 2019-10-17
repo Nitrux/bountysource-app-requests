@@ -31,7 +31,7 @@ The AppImages that we create will target **amd64** primarily; however, if there 
 
 * Application requests must not be, need or depend on i686 libraries.
 * Electron applications may require extra work.
-* Application requests closing comments will be accompanied by a link to the file at AppImageHub.com, screenshots or a video of the AppImage functioning on the mentioned distributions.
+* Application requests closing comments will be accompanied by a link to the file at A[Pling.com](PLing.com), screenshots or a video of the AppImage functioning on (at least three of) the mentioned distributions.
 * Bounties are paid off only until the issue (the application request) is solved, not before.
 
 # Bugs
