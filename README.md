@@ -7,7 +7,7 @@ A place where users can request AppImages ports of missing applications not avai
 2. Visit [Nitrux@Bountysource](https://www.bountysource.com/teams/nitrux/issues) and search for the application request that you created or that you're interested.
 3. Click the like button and add a bounty to it. The bounty is a collective effort; the more people contribute to the pool, the better.
 4. The minimum bounty for an application request is of **$250**. After this goal is met, we will begin porting the application to an AppImage with **amd64** as the target architecture.
-5. After it has been adequately tested, it will be uploaded to [Pling.com](Pling.com). Afterward, the opening issue will be closed.
+5. After it has been adequately tested, it will be uploaded to [Pling.com](https://www.pling.com). Afterward, the opening issue will be closed.
 
 We will ensure that the AppImages work on the newest and the oldest still supported versions of these distributions. Likely, the AppImage will also work on any derivative.
 
@@ -31,7 +31,7 @@ The AppImages that we create will target **amd64** primarily; however, if there 
 
 * Application requests must not be, need or depend on i686 libraries.
 * Electron applications may require extra work.
-* Application requests closing comments will be accompanied by a link to the file at [Pling.com](PLing.com), screenshots or a video of the AppImage functioning on (at least three of) the mentioned distributions.
+* Application requests closing comments will be accompanied by a link to the file at [Pling.com](https://www.pling.com), screenshots or a video of the AppImage functioning on (at least three of) the mentioned distributions.
 * Bounties are paid off only until the issue (the application request) is solved, not before.
 
 # Bugs
