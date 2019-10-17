@@ -25,7 +25,7 @@ The AppImages that we create will target **amd64** primarily; however, if there 
 
 1. If there's enough demand for a given application to also work on other architectures, we will create a new issue, referencing the previous one and place a new minimum bounty goal.
 2. The minimum bounty for this extended goal is of **$350**. As before, the bounty is a collective effort; the more people contribute to the pool, the better.
-3. After it has been adequately tested, it will be uploaded to [Pling.com](PLing.com), in addition to the file for amd64. Afterward, the initial issue will be closed.
+3. After it has been adequately tested, it will be uploaded to [Pling.com](https://www.pling.com), in addition to the file for amd64. Afterward, the initial issue will be closed.
 
 # Notes
 
