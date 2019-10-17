@@ -3,11 +3,11 @@ A place where users can request AppImages ports of missing applications not avai
 
 ## How does it work?
 
-1. Open an issue in this repository and use this title format: [Nitrux] [App_Request] App_name.
+1. Open a *regular issue* in this repository and use this title format: [Nitrux] [App_Request] App_name.
 2. Visit [Nitrux@Bountysource](https://www.bountysource.com/teams/nitrux/issues) and search for the application request that you created or that you're interested.
 3. Click the like button and add a bounty to it. The bounty is a collective effort; the more people contribute to the pool, the better.
 4. The minimum bounty for an application request is of **$250**. After this goal is met, we will begin porting the application to an AppImage with **amd64** as the target architecture.
-5. After it has been adequately tested, it will be uploaded to [AppImageHub.com](appimagehub.com). Afterward, the opening issue will be closed.
+5. After it has been adequately tested, it will be uploaded to [Pling.com](Pling.com). Afterward, the opening issue will be closed.
 
 We will ensure that the AppImages work on the newest and the oldest still supported versions of these distributions. Likely, the AppImage will also work on any derivative.
 
@@ -25,7 +25,7 @@ The AppImages that we create will target **amd64** primarily; however, if there 
 
 1. If there's enough demand for a given application to also work on other distributions, we will reopen the issue and place a new minimum bounty goal.
 2. The minimum bounty for this extended goal is of **$350**. As before, the bounty is a collective effort; the more people contribute to the pool, the better.
-3. After it has been adequately tested, it will be uploaded to [AppImageHub.com](appimagehub.com), in addition to the file for amd64. Afterward, the first issue will be closed.
+3. After it has been adequately tested, it will be uploaded to [Pling.com](PLing.com), in addition to the file for amd64. Afterward, the first issue will be closed.
 
 # Notes
 
